@@ -1,0 +1,34 @@
+Objective: 
+This will be an online article portal, but will be used for lot of my domains to increase traffic. 
+Examples include: 
+	Medium
+	Substack
+	Ghost
+	Wattpad
+	Vocal
+	Tumblr
+	Linkedin
+	Quora
+	Blogger
+	WordPress
+	HashNode
+
+To get warm-up with the tech stack I am familiar with as below
+UI: Javascript, Typescript, React
+API: Java, Spring, Docker, PostgreSQL
+TDD: Jest, JUnit
+
+This application will be deployed on AWS and will be the CMS for all my domains. 
+This application will be a template where I can upload all my AI generated articles. 
+
+UI: 
+Create a react ui for profiles. 
+
+
+The landing page should have a header and a footer. 
+The main section of the landing page should have Material UI cards. 
+Each card
+
+API: 
+
+Docker PostGres
